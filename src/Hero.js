@@ -10,7 +10,7 @@ export default class Hero extends Component {
         <h1>My awesome website</h1>
         <h2>Look at this amazing piece of shit</h2>
         <div>
-          <Button type='primary' text='Go ahead...' />
+          <Button type='primary'>Go ahead...</Button>
         </div>
       </div>
     );
