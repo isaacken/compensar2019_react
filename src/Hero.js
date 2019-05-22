@@ -7,10 +7,10 @@ export default class Hero extends Component {
   render() {
     return (
       <div className="hero">
-        <h1>My awesome website</h1>
-        <h2>Look at this amazing piece of shit</h2>
+        <h1>Music for everyone.</h1>
+        <h2>Millions of songs. No credit card needed.</h2>
         <div>
-          <Button type='primary'>Go ahead...</Button>
+          <Button type='primary'>GET SPOTIFY FOR FREE</Button>
         </div>
       </div>
     );
